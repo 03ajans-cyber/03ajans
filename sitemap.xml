@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <!-- Ana Sayfa -->
+    <url>
+        <loc>https://www.03ajans.com/index.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Hakkımızda -->
+    <url>
+        <loc>https://www.03ajans.com/03ajans-hakkimizda.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Portfolyo -->
+    <url>
+        <loc>https://www.03ajans.com/03ajans-portfolyo.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- İletişim -->
+    <url>
+        <loc>https://www.03ajans.com/03ajans-iletisim.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Sektörel Ana Hub -->
+    <url>
+        <loc>https://www.03ajans.com/sektorel.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- 1. Sağlık & Klinik Sektörü -->
+    <url>
+        <loc>https://www.03ajans.com/sektorel/saglik-klinik-psikolog-diyetisyen.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+    </url>
+
+    <!-- 2. E-Ticaret & Global D2C Markalar -->
+    <url>
+        <loc>https://www.03ajans.com/sektorel/e-ticaret-global-d2c.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+    </url>
+
+    <!-- 3. Çiçekçilik, Organizasyon & Etkinlik Yönetimi -->
+    <url>
+        <loc>https://www.03ajans.com/sektorel/cicekci-organizasyon-etkinlik.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+    </url>
+
+    <!-- 4. Turizm, Termal Otel & Konaklama -->
+    <url>
+        <loc>https://www.03ajans.com/sektorel/turizm-termal-otel-konaklama.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+    </url>
+
+    <!-- 5. Madencilik, Mermer & Ağır Sanayi -->
+    <url>
+        <loc>https://www.03ajans.com/sektorel/mermer-madencilik-agir-sanayi-ihracat.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+    </url>
+
+    <!-- 6. Gıda, Gastronomi & Yerel Üretim -->
+    <url>
+        <loc>https://www.03ajans.com/sektorel/gida-gastronomi-fmcg-uretim.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 7. İnşaat, Mimarlık, Gayrimenkul & İç Mimari -->
+    <url>
+        <loc>https://www.03ajans.com/sektorel/insaat-mimarlik-gayrimenkul.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 8. Otomotiv, Yedek Parça & Teknik Servis -->
+    <url>
+        <loc>https://www.03ajans.com/sektorel/otomotiv-yedek-parca-teknik-servis.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 9. Eğitim, Kurslar & Uzaktan Akademi -->
+    <url>
+        <loc>https://www.03ajans.com/sektorel/egitim-kurs-akademik-pazarlama.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 10. Hukuk, Danışmanlık & Kurumsal Finans -->
+    <url>
+        <loc>https://www.03ajans.com/sektorel/hukuk-danismanlik-finans.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 11. Tekstil, Moda & Giyim Üretimi -->
+    <url>
+        <loc>https://www.03ajans.com/sektorel/tekstil-moda-giyim-ureticileri.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 12. B2B Hizmetler, Yazılım & Teknoloji -->
+    <url>
+        <loc>https://www.03ajans.com/sektorel/b2b-yazilim-teknoloji-saas.html</loc>
+        <lastmod>2026-07-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+    </url>
+
+</urlset>
